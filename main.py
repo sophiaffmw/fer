@@ -1,5 +1,3 @@
-'''Train Fer2013 with PyTorch.'''
-# 10 crop for data enhancement
 from __future__ import print_function
 
 import torch
